@@ -8,7 +8,8 @@ async function configurarBloqueio(sock) {
     // IDs dos usuários que não devem ser bloqueados
     const usuariosPermitidos = [
         '559193670996@s.whatsapp.net',   //vania
-        '559193310860@s.whatsapp.net'
+        '559193310860@s.whatsapp.net',  //vania
+        '5514981930016@s.whatsapp.net'  //bot
     ];
 
     // Função para processar mensagens recebidas
